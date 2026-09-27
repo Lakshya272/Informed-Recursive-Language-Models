@@ -1,5 +1,3 @@
----
-
 <h1 align="center" style="font-size:2.4em">
 <span>Informed Recursion for Recursive Language Models (<span style="color:orange">RLM</span>s)</span>
 </h1>
